@@ -17,8 +17,8 @@
       "text":"Welcome!",
       "translations":{
          "pt-PT":{
-            "text":"Bem-vindo!",
-            "status":"translated"
+            "text":false,
+            "status":"untranslated"
          },
          "pt-BR":{
             "text":"Bem-vindo!",
@@ -26,7 +26,7 @@
          },
          "es-ES":{
             "text":"¡Bienvenido!",
-            "status":"translated"
+            "status":"approved"
          }
       }
    },
@@ -48,12 +48,12 @@
       "translations":{
          "pt-PT":{
             "text":{
-               "one":"1 mensagem por conversa",
-               "other":"%d mensagens por conversa"
+               "one":false,
+               "other":false
             },
             "status":{
-               "one":"translated",
-               "other":"translated"
+               "one":"untranslated",
+               "other":"untranslated"
             }
          },
          "pt-BR":{
@@ -72,8 +72,8 @@
                "other":"%d mensajes por conversación"
             },
             "status":{
-               "one":"translated",
-               "other":"translated"
+               "one":"approved",
+               "other":"approved"
             }
          }
       }
@@ -92,22 +92,22 @@
       "text":"Earth",
       "translations":{
          "pt-PT":{
+            "text":false,
+            "status":"untranslated"
+         },
+         "pt-BR":{
             "text":"Terra",
             "status":"translated"
          },
-         "pt-BR":{
-            "text":"Earth",
-            "status":"untranslated"
-         },
          "es-ES":{
             "text":"Tierra",
-            "status":"translated"
+            "status":"approved"
          }
       }
    }
 ]
 ```
-1
+
 
 Languages:
 
