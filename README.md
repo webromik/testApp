@@ -17,7 +17,7 @@
       "text":"Welcome!",
       "translations":{
          "pt-PT":{
-            "text":false,
+            "text":"Welcome!",
             "status":"untranslated"
          },
          "pt-BR":{
@@ -48,8 +48,8 @@
       "translations":{
          "pt-PT":{
             "text":{
-               "one":false,
-               "other":false
+               "one":"1 message per conversation",
+               "other":"%d messages per conversation"
             },
             "status":{
                "one":"untranslated",
@@ -92,7 +92,7 @@
       "text":"Earth",
       "translations":{
          "pt-PT":{
-            "text":false,
+            "text":"Earth",
             "status":"untranslated"
          },
          "pt-BR":{
